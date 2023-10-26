@@ -1,4 +1,4 @@
-// Create a web server
+// Create web server
 // 1. Create a new Express web server
 // 2. Setup two routes
 //    - /comments
